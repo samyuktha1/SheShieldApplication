@@ -1,0 +1,29 @@
+  {
+  "project_info": {
+    "project_number": "803839221038",
+    "project_id": "sheshield-4a66a",
+    "storage_bucket": "sheshield-4a66a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:803839221038:android:1575d8c0a6775ae0966ebf",
+        "android_client_info": {
+          "package_name": "com.android.sheshield"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDb_WLYtPeyw-GS95H4QJrm6JAzul6YX5c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
